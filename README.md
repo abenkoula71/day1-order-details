@@ -1,29 +1,7 @@
-# github_day1
-
-
-A new Flutter project.
-
-
-## Getting Started
-
-
-This project is a starting point for a Flutter application.
-
-
-A few resources to get you started if this is your first Flutter project:
-
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-
-
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-
-For help getting started with Flutter development, view the
-
-
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-
-
-samples, guidance on mobile development, and a full API reference.
-
+ <h1> flutter Tiktok app Home page </h1>  
+<h4> You can change the information and link it to the databases and play the videos inside it and name image ....</h4>
+<h3>Accueil</h3> 
+<img src="https://github.com/abenkoula71/Flutter-tiktok-app--homepage/blob/main/Screenshot_1633775733.png" width="300" /> 
+<hr>
+<img src="https://github.com/abenkoula71/Flutter-tiktok-app--homepage/blob/main/Screenshot_1633775801.png" width="300" />  
+<hr>
